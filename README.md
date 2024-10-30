@@ -4,7 +4,7 @@
 
 Welcome to the Dog Gallery, a fun and simple web app I created to explore the world of asynchronous JavaScript and API integration. This project was born from my curiosity about web development and my love for dogs!
 
-![Animated Gradient Background](https://s11.gifyu.com/images/SOBNK.gif)
+![Animated Gradient Background](assets/Dog-API-Preview.gif)
 
 ## What's This All About?
 
