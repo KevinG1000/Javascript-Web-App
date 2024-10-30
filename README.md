@@ -4,7 +4,7 @@
 
 Welcome to the Dog Gallery, a fun and simple web app I created to explore the world of asynchronous JavaScript and API integration. This project was born from my curiosity about web development and my love for dogs!
 
-![Dog Gallery Screenshot](https://i.imgur.com/3RigT2I.png)
+![Dog Gallery Screenshot](https://i.imgur.com/jHdAtSU.png)
 
 ## What's This All About?
 
