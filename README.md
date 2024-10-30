@@ -4,7 +4,7 @@
 
 Welcome to the Dog Gallery, a fun and simple web app I created to explore the world of asynchronous JavaScript and API integration. This project was born from my curiosity about web development and my love for dogs!
 
-![Dog Gallery Screenshot](https://i.imgur.com/jHdAtSU.png)
+![Animated Gradient Background](https://s11.gifyu.com/images/SOBNK.gif)
 
 ## What's This All About?
 
@@ -12,6 +12,7 @@ The Dog Gallery is a single-page application that showcases beautiful dog images
 
 ### Features
 
+- **Dynamic Background:** The animated gradient background, shown above, adds a lively and engaging element to the interface.
 - **Simple Navigation:** Browse through dog images with straightforward 'Previous' and 'Next' button controls.
 - **Responsive Design:** The gallery is designed to look great on both desktop and mobile devices.
 - **Interactive Controls:** Easily navigate through the gallery using the 'Previous' and 'Next' buttons to see more dog photos.
@@ -21,7 +22,7 @@ The Dog Gallery is a single-page application that showcases beautiful dog images
 The app uses plain old HTML, CSS, and JavaScript. Here's a quick rundown of the tech involved:
 
 - **HTML:** Structures the basic webpage.
-- **CSS:** Styles the gallery to make it visually appealing.
+- **CSS:** Styles the gallery to make it visually appealing, including dynamic effects like an animated gradient background.
 - **JavaScript:** Powers the entire functionality of the app, including API calls to the Dog API using the Fetch API with async/await syntax for seamless asynchronous operations.
 
 ## Setup

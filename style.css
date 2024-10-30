@@ -1,9 +1,23 @@
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
-    background: #ab19ff;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 12s ease infinite;
 }
 
 header {
@@ -17,9 +31,9 @@ header {
     width: 300px;
     height: 300px;
     margin: 10px;
+    margin-top: 80px;
     border-radius: 5px;
-    border: black 4px solid;
-    box-shadow: 2px 5px 7px black;
+    box-shadow: 7px 10px 12px black;
 }
 
 footer {
@@ -29,5 +43,12 @@ footer {
 button {
     padding: 10px;
     width: 100px;
-    border: black 3px solid;
+    margin-top: 30px;
+    border: black 1px solid;
+    box-shadow: 3px 3px 5px black; 
+}
+
+button:hover, img:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s; 
 }
