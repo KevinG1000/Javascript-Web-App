@@ -3,20 +3,23 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
+    background: #ab19ff;
 }
 
 header {
     background: #333;
     color: white;
     padding: 10px 0;
-}
+    text-shadow: 4px 4px black
+} 
 
 #gallery img {
     width: 300px;
     height: 300px;
     margin: 10px;
     border-radius: 5px;
+    border: black 4px solid;
+    box-shadow: 2px 5px 7px black;
 }
 
 footer {
@@ -26,4 +29,5 @@ footer {
 button {
     padding: 10px;
     width: 100px;
+    border: black 3px solid;
 }
